@@ -1,0 +1,16 @@
+{
+  "name": "safehouse",
+  "version": "0.0.0",
+  "author": "dawnniie",
+  "description": "Minimal TypeScript web server designed for building HTTP APIs with end-to-end type safety.",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dawnniie/safehouse.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dawnniie/safehouse/issues"
+  },
+  "homepage": "https://github.com/dawnniie/safehouse#readme"
+}
